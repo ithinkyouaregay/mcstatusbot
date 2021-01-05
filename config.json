@@ -1,7 +1,7 @@
 {
-    "token":"YOUR_BOT_TOKEN_HERE",
-    "commandPrefix":"/",
-    "ip":"YOUR_SERVER_IP_HERE",
+    "token":"Nzk1OTI0ODAxMTQyNzg0MDQw.X_QcvA.IlYbr-2Sa-g9MGZfMGCciqRfpM4",
+    "commandPrefix":"!",
+    "ip":"Sumkai.aternos.me",
     "port":25565,
     "pingInterval":"30",
     "embedColor":"7289DA"
